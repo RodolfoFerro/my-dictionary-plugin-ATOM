@@ -1,2 +1,5 @@
-# my-dictionary-plugin-ATOM
-Created as part of my GitHub Campus Experts training. (https://medium.com/@kimcodes/hacking-the-hackable-editor-f28d6ebb636)
+# my-dictionary-plugin package
+
+A short description of your package.
+
+![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
